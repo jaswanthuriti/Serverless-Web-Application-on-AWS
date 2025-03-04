@@ -11,7 +11,8 @@ In this project, I built a serverless web application using AWS Lambda, DynamoDB
 **Steps to Build the Project:**    
 
 •	Set up a DynamoDB database to store your application's data.       
-•	Create a Lambda function that will handle all create, read, update, and delete operations for the DynamoDB database.              
+•	Create a Lambda function that will handle all create, read, update, and delete operations for 
+        the DynamoDB database.                      
 •	Upload your website files (HTML, CSS, and JavaScript) to Amazon S3 for storage and hosting.        
 •	Set up a CloudFront distribution that will deliver your S3-hosted website files to users with minimal latency.   
 
